@@ -4,7 +4,7 @@ import imageInSrc from "./imageInSrc.jpg"
 import './styles.css';
 
 function App() {
-  let name = "David";
+  let name = "Apple";
   return (
     <div className="App">
       
